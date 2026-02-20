@@ -33,15 +33,6 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 * **Grupo Leovoltaje:** Creación de Landing Page corporativa de alto impacto.
 * **Creaciones Vane:** Digitalización y branding comercial.
 
----
-
-## 📈 Mi Actividad en GitHub
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Diego-programand?label=Seguidores&style=for-the-badge&color=00c2ff&logo=github" />
-
-</p>
----
 
 ## 📫 Conecta conmigo
 ¿Tienes un proyecto en mente o simplemente quieres hablar de código (o de musica)?
