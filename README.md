@@ -39,8 +39,7 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/Diego-programand?label=Seguidores&style=for-the-badge&color=00c2ff&logo=github" />
-  <img src="https://img.shields.io/github/repo-count/Diego-programand?label=Repositorios&style=for-the-badge&color=black&logo=github" />
-  <img src="https://img.shields.io/github/languages/count/Diego-programand?label=Lenguajes&style=for-the-badge&color=00c2ff&logo=python" />
+
 </p>
 ---
 
