@@ -35,12 +35,13 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 
 ---
 
-## 📈 Actividad en GitHub
-*(Las gráficas externas están en mantenimiento, pero aquí puedes ver mi progreso directo)*
+## 📈 Mi Actividad en GitHub
 
-[![Mis contribuciones](https://img.shields.io/github/followers/Diego-programand?label=Seguidores&style=social)](https://github.com/Diego-programand)
-[![Repositorios](https://img.shields.io/github/repos/Diego-programand?label=Repositorios&color=00c2ff&style=flat-square)](https://github.com/Diego-programand?tab=repositories)
-
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Diego-programand?label=Seguidores&style=for-the-badge&color=00c2ff&logo=github" />
+  <img src="https://img.shields.io/github/repo-count/Diego-programand?label=Repositorios&style=for-the-badge&color=black&logo=github" />
+  <img src="https://img.shields.io/github/languages/count/Diego-programand?label=Lenguajes&style=for-the-badge&color=00c2ff&logo=python" />
+</p>
 ---
 
 ## 📫 Conecta conmigo
