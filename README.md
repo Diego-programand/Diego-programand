@@ -35,10 +35,11 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-programand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-programand&layout=compact&theme=tokyonight&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego-programand&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Diego" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-programand&layout=compact&theme=tokyonight" alt="Lenguajes de Diego" />
 </p>
 
 ---
