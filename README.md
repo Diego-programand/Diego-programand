@@ -1,7 +1,7 @@
 # 🦉 All We Need Is Code.
 
 <p align="center">
-  <img src="https://v-capsule-render.vercel.app/render?type=waving&color=00c2ff&height=200&section=header&text=OwlyDev%20|%20Software%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://img.shields.io/badge/OwlyDev-Software_Development-00c2ff?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ## 👤 Sobre mí
@@ -35,12 +35,11 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 
 ---
 
-## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego-programand&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Diego" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-programand&layout=compact&theme=tokyonight" alt="Lenguajes de Diego" />
-</p>
+## 📈 Actividad en GitHub
+*(Las gráficas externas están en mantenimiento, pero aquí puedes ver mi progreso directo)*
+
+[![Mis contribuciones](https://img.shields.io/github/followers/Diego-programand?label=Seguidores&style=social)](https://github.com/Diego-programand)
+[![Repositorios](https://img.shields.io/github/repos/Diego-programand?label=Repositorios&color=00c2ff&style=flat-square)](https://github.com/Diego-programand?tab=repositories)
 
 ---
 
