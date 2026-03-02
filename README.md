@@ -43,6 +43,6 @@ He colaborado con diversas marcas optimizando sus procesos digitales:
 
 ---
 <p align="center">
-  <i>"Bye."</i><br>
+  <i>Bye.</i><br>
   🎮 🎸 💻
 </p>
